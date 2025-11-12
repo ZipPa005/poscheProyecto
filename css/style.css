@@ -58,7 +58,7 @@ body {
 .hero_area {
   position: relative;
   height: 98vh;
-  background-image: url("../porscheImagenes/porscheIconiche.jpg");
+  background-image: url("../images/porscheIconiche.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
